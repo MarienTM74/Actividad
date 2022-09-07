@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad</string>
+    <string name="BotonEnviar1">Enviar1</string>
+    <string name="tv1">Primer actividad</string>
+    <string name="BotonEnviar2">Enviar2</string>
+    <string name="tv2">Segunda actividad</string>
+
+</resources>
